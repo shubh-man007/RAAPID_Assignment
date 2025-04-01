@@ -1,0 +1,7 @@
+datasets==2.18.0
+transformers==4.40.1
+evaluate==0.4.1
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+torch==2.2.1         # pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124 (windows)
