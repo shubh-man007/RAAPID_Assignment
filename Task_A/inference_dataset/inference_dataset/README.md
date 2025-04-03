@@ -1,5 +1,4 @@
-The dataset is splitted into three parts(train, dev, test). The first column is premise and the second column is hypothesis and the Label is the inference class.
-
+The [dataset](https://nlp.stanford.edu/projects/snli/) is splitted into three parts(train, dev, test). The first column is premise and the second column is hypothesis and the Label is the inference class.
 
 == Fields ==
 
